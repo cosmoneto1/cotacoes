@@ -1,4 +1,4 @@
-const consulta = require('./consulta');
+const consulta = require('./consulta.js');
 
 // consulta.carteiras();
 
